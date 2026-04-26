@@ -39,7 +39,7 @@ With over 10 years of experience designing and evolving complex technological pl
 ### 📫 Connect with me
 
 * **Location:** Boyacá, Colombia | Remote International
-* **Email:** nexusflowjuandev@gmail.com
+* **Email:** nexusflowjuandev@proton.me
 * **Philosophy:** "Those who know me already know what to expect; those who don't, I'll just say that I'm passionate about what I do."
 
 ---
