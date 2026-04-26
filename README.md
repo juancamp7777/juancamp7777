@@ -1,4 +1,4 @@
-# Hi, I'm PIARPUSAN34 👋
+# Hi, I'm juancamp7777 👋
 ### Principal / Lead Software Engineer & Software Architect
 
 With over 10 years of experience designing and evolving complex technological platforms, I specialize in building secure, high-performance, and scalable digital infrastructures. I am a **tech polyglot**, choosing the right tool for the job to ensure architectural excellence.
@@ -28,7 +28,7 @@ With over 10 years of experience designing and evolving complex technological pl
 
 ### 📫 Connect with me
 * **Location:** Boyacá, Colombia | Remote International
-* **Email:** juancampos77774444@gmail.com
+* **Email:** nexusflowjuandev@gmail.com
 * **Philosophy:** "Those who know me already know what to expect; those who don't, I'll just say that I'm passionate about what I do."
 
 ---
