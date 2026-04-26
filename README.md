@@ -13,10 +13,12 @@ With over 10 years of experience designing and evolving complex technological pl
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Rust, Python, Ruby, Java, C++, Go, C#, SQL, Bash, Pascal. |
-| **Backend** | Node.js (NestJS), FastAPI, Django, Spring Boot, gRPC, WebSockets. |
-| **Frontend** | Next.js, React, Tailwind CSS, Angular, Vue.js. |
-| **Databases** | PostgreSQL, Redis, MongoDB, Cassandra, Elasticsearch, DynamoDB. |
+| **Languages** | TypeScript, Rust, Go, Python, C++, Assembly (x86/x64), Ruby, Java, C#, SQL, Bash. |
+| **Architecture & Patterns** | Clean Architecture, Microservices, Modular Monoliths, DDD, Event-Driven. |
+| **Cybersecurity & Low-Level** | UEFI, Win32 API, Intel VT-x (Hypervisors), Halo's Gate (Syscalls), Applied Cryptography. |
+| **Backend & APIs** | Node.js (NestJS), FastAPI, Django, Spring Boot, gRPC, WebSockets. |
+| **Frontend & UI** | Next.js, React, Tailwind CSS, Angular, Vue.js, WebGL/Canvas (Gamification). |
+| **Databases & BaaS** | PostgreSQL, Supabase, Redis, MongoDB, Cassandra, Elasticsearch, DynamoDB. |
 | **Cloud & DevOps** | Docker, Kubernetes, AWS, GCP, Azure, Terraform, CI/CD. |
 
 ---
