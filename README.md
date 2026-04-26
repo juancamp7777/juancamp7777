@@ -38,5 +38,6 @@ With over 10 years of experience designing and evolving complex technological pl
 * **Adversary Simulation Framework (Red Teaming):** Engineered a highly stealthy telemetry agent utilizing indirect syscalls (Halo's Gate), dynamic XOR decryption, Domain Generation Algorithms (DGA), and memory-safe Rust to simulate Advanced Persistent Threats (APTs).
 * **Proprietary Cryptography & C2 Bridge (Go/Rust):** Implemented a secure Command & Control (C2) infrastructure with custom X25519/AES-256-GCM encryption, utilizing LSB steganography for covert data exfiltration and asynchronous networking.
 * **Umbral Ecosystem:** Architected a decentralized, modular monolith system from scratch, featuring a custom cryptographic security protocol to eliminate noise from traditional networks.
-* **Project Beast:** Leading the architectural evolution and scaling of high-performance backend logic for this robust, high-traffic platform.
+* **Project Beast (Robobeast AI Integration):** Engineered and optimized the backend connectivity between conversational AI models and the "Robobeast" automated calling systems, resolving critical bottlenecks in real-time telecommunication logic.
 * **Interactive Brand Gamification:** Engineered a custom interactive video game for a brewery brand, implementing real-time state management and optimized rendering.
+* **MarketPredator (AI Algorithm):** Designed the backend infrastructure for an AI-driven client prospecting algorithm capable of global data extraction and analysis.
