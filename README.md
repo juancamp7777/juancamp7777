@@ -13,7 +13,7 @@ With over 10 years of experience designing and evolving complex technological pl
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Rust, Go, Python, Ruby, C++, Java, C#, SQL, Bash, JavaScript, Kotlin, PHP, Pascal, Assembly (x86/x64). |
+| **Languages** | TypeScript, Rust, Go, Python, Ruby, C++, Java, C#, SQL, Bash, JavaScript, Kotlin, PHP, Pascal, ADA /SPARK, Assembly (x86/x64). |
 | **Architecture & Patterns** | Clean Architecture, Microservices, Modular Monoliths, DDD, Event-Driven, Hexagonal. |
 | **Cybersecurity & Low-Level** | UEFI, Win32 API, Intel VT-x (Hypervisors), Halo's Gate (Syscalls), Applied Cryptography, JWT, OAuth2, OWASP. |
 | **Backend & APIs** | Node.js (NestJS), FastAPI, Django, Flask, Spring Boot, gRPC, WebSockets, REST, GraphQL. |
