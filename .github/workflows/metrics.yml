@@ -26,3 +26,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            body { background: #0d1117 !important; color: #c9d1d9 !important; }
+            h2, .title { color: #9d4edd !important; }
+            .field, .value, .text, text { color: #c9d1d9 !important; fill: #c9d1d9 !important; }
+            rect.background, .background { fill: #0d1117 !important; }
+            a { color: #c77dff !important; }
