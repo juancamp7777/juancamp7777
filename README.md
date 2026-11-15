@@ -56,13 +56,55 @@ With over 10 years of experience designing and evolving complex technological pl
 
 ### 🚀 Key Projects & Innovation
 
-* **Type-1 Hypervisor & Security Research (Rust/UEFI):** Architected a custom bare-metal hypervisor bootkit leveraging Intel VT-x, Extended Page Tables (EPT) splitting, and VMX root mode to conduct advanced system-level security research and EDR evasion testing.
-* **Adversary Simulation Framework (Red Teaming):** Engineered a highly stealthy telemetry agent utilizing indirect syscalls (Halo's Gate), dynamic XOR decryption, Domain Generation Algorithms (DGA), and memory-safe Rust to simulate Advanced Persistent Threats (APTs).
-* **Proprietary Cryptography & C2 Bridge (Go/Rust):** Implemented a secure Command & Control (C2) infrastructure with custom X25519/AES-256-GCM encryption, utilizing LSB steganography for covert data exfiltration and asynchronous networking.
-* **Umbral Ecosystem:** Architected a decentralized, modular monolith system from scratch, featuring a custom cryptographic security protocol to eliminate noise from traditional networks.
-* **Project Beast (AI & Telecommunications Hardening):** Led critical architectural interventions on "RoboBeast," resolving LLM hallucinations and optimizing conversational AI flow. Engineered a zero-token-cost deterministic Circuit Breaker and implemented robust state management in LangGraph.
-* **Interactive Brand Gamification:** Engineered a custom interactive video game for a brewery brand, implementing real-time state management and optimized rendering.
-* **MarketPredator (AI Algorithm):** Designed the backend infrastructure for an AI-driven client prospecting algorithm capable of global data extraction and analysis.
+<details open>
+<summary><b>🛡️ Type-1 Hypervisor & Security Research — Rust / UEFI</b></summary>
+<br>
+Architected a custom bare-metal hypervisor leveraging Intel VT-x, Extended Page Tables (EPT) splitting, and VMX root mode for advanced system-level security research.
+</details>
+
+<details>
+<summary><b>🎯 Adversary Simulation Framework — Red Teaming</b></summary>
+<br>
+Engineered a stealthy telemetry agent using indirect syscalls (Halo's Gate), dynamic XOR decryption, Domain Generation Algorithms (DGA) and memory-safe Rust to simulate Advanced Persistent Threats (APTs).
+</details>
+
+<details>
+<summary><b>🔐 Proprietary Cryptography & C2 Bridge — Go / Rust</b></summary>
+<br>
+Implemented a secure Command & Control infrastructure with custom X25519/AES-256-GCM encryption, LSB steganography and asynchronous networking.
+</details>
+
+<details>
+<summary><b>🌑 Umbral Ecosystem — Decentralized Protocol</b></summary>
+<br>
+Architected a decentralized, modular-monolith system from scratch, featuring a custom cryptographic security protocol to eliminate noise from traditional networks.
+</details>
+
+<details>
+<summary><b>🤖 Project Beast — AI & Telecommunications Hardening</b></summary>
+<br>
+Led critical architecture work on "RoboBeast": resolved LLM hallucinations, optimized conversational AI flow, and engineered a zero-token-cost deterministic Circuit Breaker with robust state management in LangGraph.
+</details>
+
+<details>
+<summary><b>🎮 Interactive Brand Gamification</b></summary>
+<br>
+Built a custom interactive video game for a brewery brand with real-time state management and optimized rendering.
+</details>
+
+<details>
+<summary><b>📈 MarketPredator — AI Algorithm</b></summary>
+<br>
+Designed the backend infrastructure for an AI-driven client-prospecting algorithm with global data extraction and analysis.
+</details>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juancamp7777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
 
 ---
 
@@ -75,6 +117,10 @@ With over 10 years of experience designing and evolving complex technological pl
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juancamp7777&theme=dark&hide_border=true&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancamp7777&bg_color=0d1117&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
