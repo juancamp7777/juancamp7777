@@ -124,6 +124,10 @@ Designed the backend infrastructure for an AI-driven client-prospecting algorith
 
 ---
 
+<p align="center">
+  <sub>📊 These metrics reflect <b>public repositories only</b> — the core of my work lives in <b>much larger private & classified repositories</b> under active development.</sub>
+</p>
+
 ### 📫 Connect with me
 
 * **Location:** Boyacá, Colombia | Remote International
