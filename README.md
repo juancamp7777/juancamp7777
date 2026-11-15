@@ -54,6 +54,14 @@ With over 10 years of experience designing and evolving complex technological pl
 
 ---
 
+---
+
+### 🛰️ Global Infrastructure
+
+<p align="center">
+  <img src="./infra.svg" width="100%" alt="From satellite to server farm"/>
+</p>
+
 ### 🚀 Key Projects & Innovation
 
 <details open>
