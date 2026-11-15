@@ -103,7 +103,7 @@ Designed the backend infrastructure for an AI-driven client-prospecting algorith
 ### 📊 Metrics & Activity
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="640"/>
 </p>
 
 <p align="center">
