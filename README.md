@@ -100,27 +100,14 @@ Designed the backend infrastructure for an AI-driven client-prospecting algorith
 
 ---
 
-### 🏆 Trophies
+### 📊 Metrics & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juancamp7777&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juancamp7777&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancamp7777&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=10" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juancamp7777&theme=dark&hide_border=true&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juancamp7777&bg_color=0d1117&color=c77dff&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
