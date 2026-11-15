@@ -25,14 +25,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           extras_css: |
             body { background: #0d1117 !important; color: #c9d1d9 !important; }
             .field, .value, .text, text, tspan { color: #c9d1d9 !important; fill: #c9d1d9 !important; }
             rect.background, .background { fill: #0d1117 !important; }
-            a, h2, h2 * { color: #c77dff !important; fill: #c77dff !important; }
-            h2 { animation: glowPulse 3s ease-in-out infinite !important; }
-            @keyframes glowPulse {
-              0%, 100% { filter: drop-shadow(0 0 0 rgba(199,125,255,0)); }
-              50% { filter: drop-shadow(0 0 9px rgba(199,125,255,0.85)); }
-            }
+            [fill="#ebedf0"], [fill="#EBEDF0"], [fill="#ffffff"], [fill="white"] { fill: #161b22 !important; }
